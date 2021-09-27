@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing degree in computer science.
 - 💞️ In the coming time I’m looking to collaborate on machine learning projects.
 - 📫 Mail id :alhat.abhishek18@gmail.com
--  I love airplanes(I mean paper airplanes).
+- ✈️ I love airplanes(I mean paper airplanes).
 
 <!---
 alhatabhishek18/alhatabhishek18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
